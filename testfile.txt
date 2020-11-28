@@ -3,4 +3,5 @@ IGNORE
 
 This is a test file .
 Added newline.
+Add another line now.
 
